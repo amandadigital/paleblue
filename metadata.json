@@ -1,0 +1,6 @@
+{
+  "name": "paleblue",
+  "description": "a quiet space geoguessr. explore the cosmos through nasa archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
